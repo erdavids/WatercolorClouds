@@ -101,7 +101,7 @@ def main():
                 cr.line_to(layer[i][0], layer[i][1])
             cr.fill()
 
-    ims.write_to_png('watercolor.png')
+    ims.write_to_png('Examples/watercolor' + str(int(random.randint(0, 500))) + '.png')
 
 if __name__ == "__main__":
     main()
