@@ -7,9 +7,6 @@ I would like to rewrite this project in [Processing](https://www.processing.org)
 Other links:
 - [More Generative Art](https://github.com/erdavids/Generative-Art)
 - [YouTube Channel](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
-- [Twitter](https://twitter.com/TheBuffED)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6YGXL)
 
 # Examples
 
